@@ -334,7 +334,7 @@ Jhipster JDL
 </td>
 <td>
 
-安全框架
+JDL模型语言
 
 </td>
 <td>
