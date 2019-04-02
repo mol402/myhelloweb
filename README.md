@@ -9,6 +9,37 @@
 
 &nbsp;
 
+<table width="643">
+<tbody>
+<tr>
+<td width="643">
+
+&nbsp;
+
+</td>
+</tr>
+<tr>
+<td width="643">
+
+**&nbsp;**
+
+</td>
+</tr>
+<tr>
+<td width="643">
+
+&nbsp;
+
+</td>
+</tr>
+</tbody>
+</table>
+
+**&nbsp;**
+
+**&nbsp;**
+
+**&nbsp;**
 
 **&nbsp;**
 
@@ -55,49 +86,49 @@
 
 目录
 
-[1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 引言... 3](#_Toc4663152)
+[1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 引言... 3](https://wordhtml.com/#_Toc4663152)
 
-[2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 技术栈... 3](#_Toc4663153)
+[2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 技术栈... 3](https://wordhtml.com/#_Toc4663153)
 
-[3&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 开发环境... 4](#_Toc4663154)
+[3&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 开发环境... 4](https://wordhtml.com/#_Toc4663154)
 
-[3.1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 软件需求... 4](#_Toc4663155)
+[3.1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 软件需求... 4](https://wordhtml.com/#_Toc4663155)
 
-[3.2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 开发工具... 4](#_Toc4663156)
+[3.2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 开发工具... 4](https://wordhtml.com/#_Toc4663156)
 
-[4&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 开发指南... 6](#_Toc4663157)
+[4&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 开发指南... 6](https://wordhtml.com/#_Toc4663157)
 
-[4.1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 开发流程... 6](#_Toc4663158)
+[4.1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 开发流程... 6](https://wordhtml.com/#_Toc4663158)
 
-[4.2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 代码骨架... 7](#_Toc4663159)
+[4.2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 代码骨架... 7](https://wordhtml.com/#_Toc4663159)
 
-[4.3&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 数据建模... 7](#_Toc4663160)
+[4.3&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 数据建模... 7](https://wordhtml.com/#_Toc4663160)
 
-[4.3.1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Entity的定义... 7](#_Toc4663161)
+[4.3.1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Entity的定义... 7](https://wordhtml.com/#_Toc4663161)
 
-[4.3.2&nbsp;&nbsp;&nbsp;&nbsp; Field类型... 8](#_Toc4663162)
+[4.3.2&nbsp;&nbsp;&nbsp;&nbsp; Field类型... 8](https://wordhtml.com/#_Toc4663162)
 
-[4.3.3&nbsp;&nbsp;&nbsp;&nbsp; Relationship. 8](#_Toc4663163)
+[4.3.3&nbsp;&nbsp;&nbsp;&nbsp; Relationship. 8](https://wordhtml.com/#_Toc4663163)
 
-[4.3.4&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 常量定义... 11](#_Toc4663164)
+[4.3.4&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 常量定义... 11](https://wordhtml.com/#_Toc4663164)
 
-[4.3.5&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 全局选项... 11](#_Toc4663165)
+[4.3.5&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 全局选项... 11](https://wordhtml.com/#_Toc4663165)
 
-[4.3.6&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 模型示例: demo1.jh. 12](#_Toc4663166)
+[4.3.6&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 模型示例: demo1.jh. 12](https://wordhtml.com/#_Toc4663166)
 
-[4.4&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 代码生成... 13](#_Toc4663167)
+[4.4&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 代码生成... 13](https://wordhtml.com/#_Toc4663167)
 
-[4.5&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 修改配置... 18](#_Toc4663168)
+[4.5&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 修改配置... 18](https://wordhtml.com/#_Toc4663168)
 
-[4.6&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 单元测试... 19](#_Toc4663169)
+[4.6&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 单元测试... 19](https://wordhtml.com/#_Toc4663169)
 
-[4.7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 打包和部署... 20](#_Toc4663170)
+[4.7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 打包和部署... 20](https://wordhtml.com/#_Toc4663170)
 
-[5&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; FAQ. 22](#_Toc4663171)
+[5&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; FAQ. 22](https://wordhtml.com/#_Toc4663171)
 
-[5.1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 单元测试时报错... 22](#_Toc4663172)
+[5.1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 单元测试时报错... 22](https://wordhtml.com/#_Toc4663172)
 
-[5.2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 数据库连接池启动失败... 23](#_Toc4663173)
+[5.2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 数据库连接池启动失败... 23](https://wordhtml.com/#_Toc4663173)
 
 **&nbsp;**
 
@@ -354,6 +385,8 @@ JDK1.8+MySQL5.6+Oracle 10+Maven3.5+
 微服务骨架的生成依赖于generator-jhipster，下载骨架地址
 
 部门gitlab: 地址：[http://gitlab.itnb.cc/](http://gitlab.itnb.cc/)
+
+实际项目直接修改将骨架的项目名和包名为实际的项目,可以批量替换骨架的appdemo名称为实际项目名称即可.
 
 ## <a name="_Toc4663160"></a>4.3 数据建模
 
@@ -871,7 +904,13 @@ dto * with mapstruct
 
 ## <a name="_Toc4663167"></a>4.4 代码生成
 
-在项目根文件夹（即pom.xml所在的文件夹），如果第一次生成，可以修改**.yo-rc.json**代码生成项目包名和项目名。
+在项目根文件夹（即pom.xml所在的文件夹）,执行如下操作.
+
+### 4.4.1&nbsp; 配置代码参数
+
+如果第一次生成，可以修改**.yo-rc.json**代码生成项目包名和项目名。
+
+### 4.4.2&nbsp; 自动生成代码
 
 使用命令行 jhipster import-jdl xxx.jh生成代码
 
@@ -894,15 +933,9 @@ log4j2.xml配置日志，默认北京的日志框架配置kafka的话，会同�
 
 application.properties配置：
 
-&nbsp;
+## 4.6 Maven的构建编绎
 
-## <a name="_Toc4663169"></a>4.6 单元测试
-
-从左侧项目视图 ，在项目上，使用鼠标右键，选择Run As-&gt;JUnit test
-
-## <a name="_Toc4663170"></a>4.7 打包和部署
-
-通过maven管理打包发布。
+下载的代码骨架，只有包含骨架的源码，因此在执行单元测试或启动项目之前，一定要先进行Maven构建编绎，生成依赖包。
 
 从左侧项目视图，在项目上，使用鼠标右键，选择Run As-&gt;Maven build
 
@@ -910,13 +943,69 @@ application.properties配置：
 
 填写说明如下：
 
+Name：Package
+
+Base directory：${selected_resource_loc}
+
+Goals：clean install -DskipTests -Dcheckstyle.skip
+
 点击Apply，然后点击Run，执行打包，打包成功后，可以在项目子目录target找到打包文件
+
+## <a name="_Toc4663169"></a>4.7 单元测试
+
+项目编绎成功后，可以左侧项目视图，右键菜单，执行单元测试： ，在项目上，使用鼠标右键，选择Run As-&gt;JUnit test
+
+## <a name="_Toc4663170"></a>4.8 打包和部署
+
+通过maven管理打包发布。
+
+*   使用命令 mvn clean package 或者使用IDE的菜单，如果要跳过单元测试则加上参数 &ndash;DskipTests
+*   和Maven的构建编绎是一样的。都是生成jar包。
+*   使用 java -jar appdemo-sevice-1.0-SNAPSHOT.jar 运行部署包
+*   如果端口冲突则可以加上参数 --server.port=xxxxx
+*   使用浏览器访问
+*   [http://localhost:8990/api/my-addresses?page=0&amp;size=20&amp;sort=id,asc](http://localhost:8990/api/my-addresses?page=0&amp;size=20&amp;sort=id,asc)
+*   对外rest接口，返回200就是成功。
 
 &nbsp;
 
 # <a name="_Toc4663171"></a>5&nbsp;&nbsp; FAQ
 
-## <a name="_Toc4663172"></a>5.1&nbsp; 单元测试时报错
+## 5.1&nbsp; 如何构造平台定义result结构
+
+**【问题现象】返回如下平台结构**
+
+{ &nbsp;&nbsp;&nbsp;"status":"200", &nbsp;&nbsp;&nbsp;"err":"", &nbsp;&nbsp;&nbsp;data:null }
+
+**【解决方案】**
+
+开发人员只需要在直接在rest返回输出时，定义返回result即可
+
+## 5.2&nbsp; 返回http错误码
+
+**【问题现象】**
+
+**返回http状态码**
+
+**【解决方案】**
+
+骨架已集成，http返回错误码，只需要AppCode定义如下：
+
+**public** **static** **final** AppDemoAppCode **_INPUT_NULL_** = **new** AppDemoAppCode(HttpStatus.**_BAD_REQUEST_**, "请求参数为空", "input is null",
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "001");
+
+&nbsp;
+
+Rest层直接使用：
+
+if (myAddressDTO.getId() == null) {
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; throw AppDemoAppCode.INPUT_NULL.toMsfException();
+
+}
+
+## <a name="_Toc4663172"></a>5.3&nbsp; 单元测试时报错
 
 **【问题现象】**
 
@@ -934,7 +1023,7 @@ java.lang.IllegalStateException: Failed to load ApplicationContext
 
 **先maven构造build编绎项目，再执行单元测试。**
 
-## <a name="_Toc4663173"></a>5.2&nbsp; 数据库连接池启动失败
+## <a name="_Toc4663173"></a>5.4&nbsp; 数据库连接池启动失败
 
 **【问题现象】**
 
