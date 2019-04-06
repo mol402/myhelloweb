@@ -88,8 +88,8 @@
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <h1><a name="_Toc5487044"></a>1&nbsp;&nbsp; 引言</h1>
-<p>&nbsp;&nbsp;模型驱动开发(MDD Model-Driven Development) :一种新型软件设计方法，面向模型的分析设计方法，系统一开始我们就首先确立实体模型Entity Model，以及它们之间的关系，开发实现表现层、业务服务层和持久层的业务逻辑。</p>
-<p>&nbsp;&nbsp;该框架引入模型驱动开发方式，实现基于部门微信服架构+SpringBoot +Jpa+Jhipster模型驱动语言，开发迭代构建基础业务代码骨架系统的模型驱动开发框架原型。.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;模型驱动开发(MDD Model-Driven Development) :一种新型软件设计方法，面向模型的分析设计方法，系统一开始我们就首先确立实体模型Entity Model，以及它们之间的关系，开发实现表现层、业务服务层和持久层的业务逻辑。</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;该框架引入模型驱动开发方式，实现基于部门微信服架构+SpringBoot +Jpa+Jhipster模型驱动语言，开发迭代构建基础业务代码骨架系统的模型驱动开发框架原型。.</p>
 <h1><a name="_Toc5487045"></a>2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 技术栈</h1>
 <table width="671">
 <thead>
