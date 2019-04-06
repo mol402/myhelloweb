@@ -162,7 +162,7 @@
 <p>1.3.1</p>
 </td>
 <td>
-<p><a href="http://mp.baomidou.com/">http://mp.baomidou.com/</a></p>
+<p><a href="http://hibernate.org/">http://hibernate.org/</a></p>
 </td>
 </tr>
 <tr>
